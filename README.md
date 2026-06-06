@@ -1,7 +1,7 @@
 # Shana Edassery
 
 ## Overview
-Computer Science undergraduate student currently in the second year of study, with a strong interest in Data Science.  
+Computer Science undergraduate student currently in the third year of study, with a strong interest in Data Science.  
 Focused on developing foundational skills in data analysis, visualization, and programming through continuous learning and practical implementation.
 
 ---
